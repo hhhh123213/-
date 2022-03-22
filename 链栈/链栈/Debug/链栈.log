@@ -1,0 +1,5 @@
+﻿  main.cpp
+  mystack.cpp
+c:\users\mi\source\repos\链栈\链栈\mystack.cpp(44): warning C4101: “num”: 未引用的局部变量
+  正在生成代码...
+  链栈.vcxproj -> C:\Users\MI\source\repos\链栈\Debug\链栈.exe

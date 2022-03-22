@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\mi\source\repos\顺序栈\顺序栈\mystack.h(13): warning C4091: “typedef __declspec(dllexport)”: 没有声明变量时忽略“L”的左侧
+c:\users\mi\source\repos\顺序栈\顺序栈\main.cpp(6): warning C4326: “main”的返回类型应为“int”而非“void”
+    正在创建库 C:\Users\MI\source\repos\顺序栈\Debug\顺序栈.lib 和对象 C:\Users\MI\source\repos\顺序栈\Debug\顺序栈.exp
+LINK : warning LNK4232: 名称 顺序栈.exe 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  顺序栈.vcxproj -> C:\Users\MI\source\repos\顺序栈\Debug\顺序栈.exe

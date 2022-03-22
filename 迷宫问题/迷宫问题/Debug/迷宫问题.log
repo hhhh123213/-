@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\mi\source\repos\迷宫问题\迷宫问题\myarray.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\mi\source\repos\迷宫问题\迷宫问题\myarray.cpp(30): note: 编译 类 模板 成员函数 "bool DynamicArray<T>::add(T)" 时
+          with
+          [
+              T=Point
+          ]
+  c:\users\mi\source\repos\迷宫问题\迷宫问题\mystack.cpp(31): note: 参见对正在编译的函数 模板 实例化“bool DynamicArray<T>::add(T)”的引用
+          with
+          [
+              T=Point
+          ]
+  c:\users\mi\source\repos\迷宫问题\迷宫问题\mystack.cpp(5): note: 编译 类 模板 成员函数 "SequentialStack<Point>::SequentialStack(void)" 时
+  c:\users\mi\source\repos\迷宫问题\迷宫问题\main.cpp(27): note: 参见对正在编译的函数 模板 实例化“SequentialStack<Point>::SequentialStack(void)”的引用
+  c:\users\mi\source\repos\迷宫问题\迷宫问题\main.cpp(27): note: 参见对正在编译的 类 模板 实例化 "SequentialStack<Point>" 的引用
+  迷宫问题.vcxproj -> C:\Users\MI\source\repos\迷宫问题\Debug\迷宫问题.exe

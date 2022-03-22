@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\mi\source\repos\括号匹配\括号匹配\main.cpp(9): warning C4101: “num”: 未引用的局部变量
+  mystack.cpp
+c:\users\mi\source\repos\括号匹配\括号匹配\mystack.cpp(45): warning C4101: “num”: 未引用的局部变量
+  正在生成代码...
+  括号匹配.vcxproj -> C:\Users\MI\source\repos\括号匹配\Debug\括号匹配.exe
